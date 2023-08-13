@@ -8,4 +8,4 @@ EDA and Feature engineering using Python including its libraries Pandas, Sklearn
 •	From sklearn, did pre-processing and one hot encoding.
 •	Built a Power BI Dashboard to get insights on the important parameters from the flight data.
 [Airline Data Analysis (Power BI Dashboard).pdf](https://github.com/grvnair/Flight_Data_Analysis/files/10011164/Airline.Data.Analysis.Power.BI.Dashboard.pdf)
-[Airline.Data.Analysis.Power.BI.Dashboard.pdf](https://github.com/grvnair/Flight_Data_Analysis/files/12328836/Airline.Data.Analysis.Power.BI.Dashboard.pdf)
+![image](https://github.com/grvnair/Flight_Data_Analysis/assets/108720291/62a0bb8e-c9c6-4682-a9f4-432080df797c)
